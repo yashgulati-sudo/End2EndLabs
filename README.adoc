@@ -14,3 +14,5 @@ The Alphavantage workshop is an end-to-end data pipeline that demonstrates how t
 * Processing the data with Cloudera Data Engineering (CDE).
 * Storing and querying the data using Cloudera Data Warehouse (CDW).
 
+This is the submodule for the End2EndLabs folder of cloudera-partners repo.
+
